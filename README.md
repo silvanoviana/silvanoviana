@@ -6,8 +6,7 @@
 - 👯 Experiências Profissionais: Financeiro, Gerente Geral, Designer Grafico, Gestao de Redes Sociais, Desenvolvedor WordlPress/Elementor
 - 🤔 Tecnologias favoritas:Html, Css, JavaScript
 - 💬 O que esta estudando atualmente: Desenvolvimento de Aplicações Web
-- 📫 Como me encontrar:
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/silvanoviana/">LinkedIn</a>, <a href="https://www.behance.net/silvanoviana">Portfolio</a>, <a href="mailto:silvanoviana@gmail.com" target="_blank">E-mail</a>
+- 📫 Como me encontrar: <a href="https://www.linkedin.com/in/silvanoviana/">LinkedIn</a>, <a href="https://www.behance.net/silvanoviana">Portfolio</a>, <a href="mailto:silvanoviana@gmail.com" target="_blank">E-mail</a>, <a href="https://api.whatsapp.com/send?phone=5517992379617" target="_blank">WhatsApp</a>
   
   <div align="center">
   <a href="https://github.com/silvanoviana">
